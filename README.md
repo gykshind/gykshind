@@ -1,16 +1,21 @@
-## Hi there 👋
+# 你好，我是[ 顾妤珂 ]
 
-<!--
-**gykshind/gykshind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 浙江舟山 | 🎓 会计大一学生  
+📸 摄影 | 📚 小说 | ✨ 追星  
+🏊 游泳 | 💃 民族舞
 
-Here are some ideas to get you started:
+## 我的日常
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 在[ 嘉兴大学 ]学习会计专业课
+- 用镜头记录舟山沿海风光和校园生活
+- 收集爱豆周边和好看的小说
+- 坚持每周游泳跑步 保持健康好身体
+- 坚持练习民族舞基本功
+
+## 最近在忙
+
+📌 准备会计从业资格考试  
+📌 整理爱豆照片墙  
+📌 学习人像摄影技巧  
+
+> "左手计算器，右手相机，在数字与艺术间寻找平衡"
